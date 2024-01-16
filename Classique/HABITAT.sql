@@ -1,0 +1,11 @@
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (1, 80, 'Sous-marin', 'Mont hydrothermal', 2);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (2, 80, 'Faible', 'Volcanique', 3);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (3, 37, 'Eleve', 'Vaginal', 5);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (4, 40, 'Moyenne', 'Sol', 6);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (5, 30, 'Sec', 'Aliment', 7);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (6, 70, 'Eleve', 'Source Yellow Stone', 1);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (7, 37, 'Moyenne', 'Voie respiratoire', 7);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (8, 37, 'Eleve', 'Tube digestif', 3);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (9, 37, 'Moyenne', 'Peau', 7);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (10, 20, 'Moyenne', 'Terrestre', 7);
+INSERT INTO HABITAT (id, temperature, humidite, biome, ph) VALUES (11, 37, 'Elevé', 'Fruit', 2);
