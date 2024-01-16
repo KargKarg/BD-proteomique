@@ -1,0 +1,1 @@
+Implémentation de la BD protéique, recensant la structure secondaire des protéines, leurs domaines, leurs homologies et d’autres entités. Ainsi que l’implémentation de requêtes SQL (ex : les protéines possédant une suite Brin-Hélice-Brin-Hélice), des triggers, vues et fonctions avec PLSQL.
